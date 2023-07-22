@@ -1,10 +1,9 @@
 # Weather Forever 
 
-In order to ruhn the APP, follow the terminal instructions. 😃 = 
+In order to ruhn the APP, follow the terminal instructions
 
-''' sh
-cd application 
-python weatherAPI.py 
-''' 
-
-
+```sh 
+cd Weather Application 
+python weatherAPI.py
+```
+# Let's GOOOOOOOOOOO
