@@ -1,1 +1,3 @@
-print["Positive impact, positive CHANGE as a Billionaire"]
+print["Positive impact, positive CHANGE as a Billionaire"] 
+
+print("Fixed")
